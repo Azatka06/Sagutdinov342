@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LanguageSpinner</string>
+    <string name="change">change</string>
+    <string-array name="lanSpinner">
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="styleSpinner">
+        <item>Little margin</item>
+        <item>Medium margin</item>
+        <item>Large margin</item>
+    </string-array>
+    <string name="text">London is the capital of Great Britain. London is the capital of Great Britain. London is the capital of Great Britain. London is the capital of Great Britain</string>
+</resources>

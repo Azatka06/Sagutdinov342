@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanguageSpinner</string>
+    <string name="change">Изменить</string>
+    <string-array name="lanSpinner">
+        <item>en</item>
+        <item>ru</item>
+    </string-array>
+    <string-array name="styleSpinner">
+        <item>Малый отступ</item>
+        <item>Средний отступ</item>
+        <item>Большой отступ</item>
+    </string-array>
+    <string name="text">лондон столица великобритании. лондон столица великобритании. лондон столица великобритании. лондон столица великобритании</string>
+
+</resources>
